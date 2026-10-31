@@ -86,3 +86,5 @@ The project addresses several business questions, including:
 This project demonstrates the practical application of SQL in sales and inventory analysis. It helped develop skills in relational database querying, data aggregation, joining multiple tables, and extracting business-relevant information from transactional data.
 
 **Project Category:** SQL | Data Analytics | Business Analysis
+
+Link: https://github.com/MDSAMEERKHAN23/BOOK_SALES_ANALYSIS/blob/main/BOOK_SALES_PROJECT.sql
